@@ -7,7 +7,9 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 - ⚡ Fun fact: There is no free will, we are all a set of commands
+
 ---
+
 <h3>💻 Tech Stack:</h3>
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=social&logo=typescript&logoColor=007ACC" />
@@ -34,6 +36,8 @@
 
 <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-black?style=social&logo=material-ui" />
 </p>
+
 ---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=s-pyadyshev&count_private=true&show_icons=true" />
 <img height="160em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-pyadyshev&layout=compact" />
