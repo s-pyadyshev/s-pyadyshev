@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React Advanced patterns, MobX
-- 👯 I’m looking to collaborate on something challenging and interesting
-- 🤔 I’m looking for help with Backend
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on freelance
+- 🌱 I’m currently learning Backend (PHP, Node.js) basics, Advanced JS/React, Vue basics
 - ⚡ Fun fact: There is no free will, we are all a set of commands
 
 ---
@@ -29,8 +25,6 @@
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=social&logo=webpack" />
 
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
-
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=social&logo=firebase&logoColor=FFCA28" />
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=social&logo=bootstrap" />
 
