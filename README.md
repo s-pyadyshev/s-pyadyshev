@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning Backend (PHP, Node.js) basics, Advanced JS/React, Vue basics
+- 🌱 I’m currently learning Backend (Ruby) basics, Advanced JS/React stuff
 - ⚡ Fun fact: There is no free will, we are all a set of commands
 
 ---
 
 <h3>💻 Tech Stack:</h3>
 <p>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=social&logo=typescript&logoColor=007ACC" />
-
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=social&logo=javascript&logoColor=F7DF1E" />
 
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=social&logo=react&logoColor=61DAFB" />
@@ -22,8 +20,6 @@
 
 <img alt="SASS" src="https://img.shields.io/badge/-SASS-black?style=social&logo=sass" />
 
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=social&logo=webpack" />
-
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=social&logo=bootstrap" />
@@ -33,5 +29,4 @@
 
 ---
 
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=s-pyadyshev&count_private=true&show_icons=true" />
 <img height="160em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-pyadyshev&layout=compact" />
