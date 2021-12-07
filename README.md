@@ -21,12 +21,4 @@
 <img alt="SASS" src="https://img.shields.io/badge/-SASS-black?style=social&logo=sass" />
 
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?style=social&logo=bootstrap" />
-
-<img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-black?style=social&logo=material-ui" />
 </p>
-
----
-
-<img height="160em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s-pyadyshev&layout=compact" />
