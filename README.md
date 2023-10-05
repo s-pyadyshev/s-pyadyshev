@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in RTK IT
-- 🌱 I’m currently learning Backend (Ruby) and diving deeper into React and JS
+- 🌱 I’m currently learning Backend (Node.js) and diving deeper into React and JS
 - ⚡ Fun fact: There is no free will, we are all a set of commands
 
 ---
