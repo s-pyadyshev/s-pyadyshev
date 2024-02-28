@@ -21,3 +21,5 @@
 
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-black?style=social&logo=gulp" />
 </p>
+
+<img alt="Gulp" src="dino.png" width="50%" />
