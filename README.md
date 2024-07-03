@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working in RTK IT
 - ⚡ Fun fact: There is no free will, we are all a set of commands
 
 ---
